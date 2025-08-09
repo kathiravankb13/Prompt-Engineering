@@ -49,7 +49,7 @@ Pip felt something new inside him—like a small lantern glowing in his chest. W
 
 That night, Pip realized the dark wasn’t something to fear—it was just a place waiting to be filled with light. And sometimes, the light comes from courage… and the friends you meet along the way.
 ## OUTPUT:
-https://github.com/kathiravankb13/Write-a-bedtime-story-about-a-bat-who-is-afraid-of-dark-for-children-aged-5-to-7/tree/78da21b82d19627e0b2c9a63396a7bb741234ec1
+https://github.com/kathiravankb13/Write-a-bedtime-story-about-a-bat-who-is-afraid-of-dark-for-children-aged-5-to-7/blob/main/story_compressed.pdf
 ## RESULT :
 Thus, a bedtime story was successfully created about a bat who is afraid of the dark, designed for children aged 5 to 7. The narrative gently explores themes of courage, friendship, and overcoming fears, using simple language and vivid imagery to engage young readers. The story follows Benny the Bat as he learns to embrace the beauty of the night with the help of his friend Lila the Firefly, offering both entertainment and a reassuring message for bedtime.
 Thus, a bedtime story was successfully created about a bat who is afraid of the dark, designed for children aged 5 to 7. The narrative gently explores themes of courage, friendship, and overcoming fears, using simple language and vivid imagery to engage young readers. The story follows Benny the Bat as he learns to embrace the beauty of the night with the help of his friend Lila the Firefly, offering both entertainment and a reassuring message for bedtime.
